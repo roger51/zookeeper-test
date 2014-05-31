@@ -1,0 +1,12 @@
+.idea/
+.settings/
+target/
+.classpath
+.project
+Thumbs.db
+*.apk
+*.ap_
+*.class
+*.dex
+*.iml
+bin/
